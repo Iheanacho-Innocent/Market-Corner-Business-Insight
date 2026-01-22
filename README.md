@@ -24,7 +24,7 @@ Four primary metrics displayed as large cards:
 -Tax on Sales $895K (10% tax liability on transactions)
 -Shipping Costs: $120K (Logistics and distribution expenses)
 
-### **Left Panel: Interactive Controls**
+### **Right Panel: Interactive Controls**
 - Category Filter Technology/Furniture/Office Supplies slicer
 - Region Filter, Geographic segmentation controls
 - Top 5 Customers: Interactive customer ranking selector
